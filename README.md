@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moncadad but you can call me Denise. 
-- 👀 I’m interested in Front End Development. 
-- 🌱 I’m currently learning Javascript, whilst perfecting the ones I already know. 
-- 💞️ I’m looking to collaborate on any projects.
+- 👀 I’m passionate about Frontend Development! 
+- 🌱 I continue to deepen my understanding in these technologies, while seeking for employment. 
+- 💞️ I love working with others, and open to collaborate on any projects.
 
 <!---
 moncadad/moncadad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
